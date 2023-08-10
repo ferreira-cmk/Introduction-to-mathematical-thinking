@@ -22,6 +22,26 @@ Lista Demarcada
    * teste
 * teste
 
+![imagem do globo terrestre](https://user-images.githubusercontent.com/68753193/236027286-6bf3ccd4-75ee-42e6-b626-869d1d3d64c7.png)
+**Não use imagens mais do que 400 de largura**
+---
+
+[Acesse os melhores phonk music](https://youtu.be/KZvVWnRUrkU)
+---
+Tabelas
+
+Num | Nome | Nota 
+---|---|---
+1|Rayane| 21
+
+---
+Comando
+`documento.getElementById()` da linguagem JavaScript
+---
+
+Emojis
+Ola campão :1st_place_medal: 
+
 Lista de Tarefas
 - [x] Criar pagina principal
 - [x] Criar pagina loja
